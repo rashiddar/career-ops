@@ -1,5 +1,5 @@
 # Article Digest — Rashid Dar
-<!-- User data: email takhallus1@protonmail.com, no LinkedIn configured -->
+<!-- User data: email dar.rashid@gmail.com -->
 
 ## Key Proof Points & Case Studies
 

@@ -1,0 +1,113 @@
+candidate:
+  name: Rashid Bashir Dar
+  email: dar.rashid@gmail.com
+  location: Istanbul, Turkey
+  timezone: Europe/Istanbul
+  phone: ""
+  linkedin: "https://www.linkedin.com/in/rashiddar"
+
+  # Current role / positioning
+  current_role: Independent Consultant | Defense & Technology
+  current_company: Self-employed / Defense Sector Consulting
+
+  # Target roles
+  target_roles:
+    - Program Manager (Defense / Technology)
+    - Partnerships Manager (International / Cross-border)
+    - Chief of Staff
+    - Strategic Advisor (Defense / Technology)
+    - Program Officer (Philanthropy / Foundations)
+    - Business Development Manager (Defense / Tech)
+
+  # Compensation
+  salary_target:
+    min: 120000
+    max: null
+    currency: USD
+    notes: No cap — $120k minimum, open to discussion based on role, equity, and location
+
+  # Target companies
+  target_companies: []
+  target_industries:
+    - Defense & Aerospace
+    - Technology / AI & Automation
+    - International Development
+    - Philanthropy / Foundations
+    - Think Tanks & Policy
+
+  # Location policy
+  location_policy:
+    accepts_remote: true
+    accepts_relocation: true
+    preferred_locations:
+      - Istanbul, Turkey
+      - Remote (global)
+      - Washington, DC
+      - Philadelphia, PA
+      - Kuala Lumpur, Malaysia
+    remote_only: false
+    notes: Open to full-time on-site for the right role
+
+  # Narrative — unique positioning and personal story
+  narrative:
+    headline: "Cross-border defense technology strategist and program builder with US foundation, policy, and conflict mediation experience"
+    unique_selling_points:
+      - Combines US non-profit/philanthropy leadership experience with hands-on defense tech consulting in Turkey and Malaysia
+      - Proven ability to operate across government, military, NGO, and academic stakeholder environments in the Middle East, Southeast Asia, and the US
+      - AI-augmented program delivery: builds automation tools, LLM-driven content pipelines, and procurement intelligence systems alongside traditional program management
+      - Track record of standing up new programs end-to-end: strategic planning → team recruitment → government liaison → execution
+      - Speaks English (native), Arabic (advanced), Urdu/Hindi/Punjabi (advanced), Turkish (basic)
+    dealbreakers:
+      - No roles where technology/automation is actively discouraged
+      - No Java shops or purely legacy tech environments
+    best_achievement: "Rebranded and restructured Templeton Foundation's Muslim-world grant portfolio (Islam, Science, and Society), which was later adopted Foundation-wide — a multi-year strategic planning process requiring Board approval, expert review, and cross-departmental buy-in."
+
+  # Archetypes (user-specific mapping — stored here, not in _shared.md)
+  archetypes:
+    defense_program_manager:
+      label: Defense Program Manager
+      description: Manages cross-border drone production, multi-stakeholder coordination, government liaison, and technology scouting
+      key_skills:
+        - Multi-timezone team management (12+ people across 3 continents)
+        - Government engagement (Malaysian, Turkish, international military)
+        - Contract negotiation (NCNDAs, representation agreements, MOUs)
+        - Defense expo networking and deal sourcing
+      unique_narrative: "I run a defense technology program across three time zones with no office and no playbook — just stand-ups, trackers, and a lot of WhatsApp"
+
+    partnerships_strategist:
+      label: International Partnerships Strategist
+      description: Builds cross-border relationships across government, philanthropy, defense, and academia
+      key_skills:
+        - High-level diplomatic and government relationship management
+        - Philanthropic network building and grantee scouting
+        - Conference speaking, panel moderation, and public representation
+        - Cold outreach and strategic networking across sectors
+      unique_narrative: "I've built partnerships from a foundation program officer desk in Philadelphia and from a defense trade show floor in Istanbul — the skills are the same, the stakes are different"
+
+    ai_augmented_pm:
+      label: AI-Augmented Program Manager
+      description: Combines traditional program management with AI tool-building and automation
+      key_skills:
+        - LLM-based content generation (curricula, textbooks, lesson plans)
+        - Vibe coding / rapid application prototyping (defense procurement tool)
+        - Multilingual data collation and automated reporting
+        - Automation scripts (Hazel, Python) for workflow optimization
+      unique_narrative: "I don't just manage programs — I build the tools that manage them better. My vibe-coded procurement app went straight into client service offerings"
+
+    philanthropy_executive:
+      label: Philanthropy Executive / Foundation Program Officer
+      description: Strategic grantmaking, portfolio building, and institutional restructuring at major foundation
+      key_skills:
+        - Multi-million dollar grant portfolio design and management
+        - Board-level strategic planning and theory of change
+        - Grantee scouting, coaching, and relationship management
+        - Salesforce-based grant lifecycle management
+      unique_narrative: "I redesigned a Foundation's entire approach to Muslim-world grantmaking and the structure outlasted my tenure — adopted Foundation-wide"
+
+  # Language preferences
+  language:
+    modes_dir: modes  # default English
+
+  # Scoring preferences (user-specific weight adjustments)
+  scoring:
+    weight_overrides: {}

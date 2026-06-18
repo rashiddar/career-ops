@@ -25,5 +25,5 @@ metadata:
 **Target roles**: Defense Program Manager, Partnerships Strategist, Chief of Staff, Philanthropy Executive
 **Comp range**: $120k min, no cap
 **Location**: Istanbul-based, open to remote, open to relocation (DC, Philly, KL), open to full-time on-site for the right role
-**Email**: takhallus1@protonmail.com
+**Email**: dar.rashid@gmail.com
 **LinkedIn**: https://www.linkedin.com/in/rashiddar
