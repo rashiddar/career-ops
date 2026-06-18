@@ -20,9 +20,10 @@ metadata:
 - Taught policy writing course, led grantmaking process workshops for major foundation
 - Track II mediation during Syrian war with UN delivery
 
-**Languages**: English (native), Arabic (intermediate), Turkish (intermediate)
-**Dealbreakers**: Full-time on-site single office, no-tech environments, Java/legacy shops
+**Languages**: English (native), Arabic (advanced), Urdu/Hindi/Punjabi (advanced), Turkish (basic)
+**Dealbreakers**: No-tech environments, legacy tech shops
 **Target roles**: Defense Program Manager, Partnerships Strategist, Chief of Staff, Philanthropy Executive
-**Comp range**: $120-200k USD
-**Location**: Istanbul-based, open to remote, open to relocation (DC, Philly, KL)
+**Comp range**: $120k min, no cap
+**Location**: Istanbul-based, open to remote, open to relocation (DC, Philly, KL), open to full-time on-site for the right role
 **Email**: takhallus1@protonmail.com
+**LinkedIn**: https://www.linkedin.com/in/rashiddar
