@@ -1,0 +1,7 @@
+- [Pipeline Batch May 11](memory/2026-05-11-pipeline-batch.md) — 20 URLs processed via 5 parallel agents, top leads: AKDN Director roles (4.0-4.4)
+- [Scan May 18 v2](memory/2026-05-18-scan-v2.md) — full 105-company scan with updated providers, 30 new leads across 6 companies
+- [Don't loop confirmations](memory/dont-loop-confirmations.md) — State outcome once, then stop. No "Done/Ready" repetition.
+- [v1.8.0 providers/ fix](memory/v1.8.0-providers-fix.md) — update didn't ship providers/ directory, created manually
+- [Scan Jun 2 2026](memory/scan-2026-06-02.md) — requested scan + pipeline, 25 leads, 1 full eval (#069), 24 triaged, MWF 8:47am recurring scan
+- [Rashid Dar Profile](user_profile.md) — Full user profile: defense tech consultant, former Templeton/Brookings, cross-border PM, AI-augmented
+- [Karpathy Coding Guidelines](karpathy-guidelines.md) — Surgical changes, surface assumptions, no overcomplication, verifiable criteria
