@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.12.0](https://github.com/santifer/career-ops/compare/career-ops-v1.11.0...career-ops-v1.12.0) (2026-06-18)
+
+
+### Features
+
+* **pdf:** render Japanese CVs with a lang="ja" CJK font fallback ([#1053](https://github.com/santifer/career-ops/issues/1053)) ([d0d57d1](https://github.com/santifer/career-ops/commit/d0d57d184649615b638812156a24c87ceafab8a2))
+* **providers:** add Jobstreet and Glints providers for the Indonesian market ([728d547](https://github.com/santifer/career-ops/commit/728d54777dd546fef37373b400aa13cfee38f374)), closes [#1085](https://github.com/santifer/career-ops/issues/1085)
+* **providers:** add RemoteOK, Remotive, Working Nomads, IBM board providers ([349bacc](https://github.com/santifer/career-ops/commit/349bacc9d9ad377d6d85ae35fe87625c1b3a6114)), closes [#1075](https://github.com/santifer/career-ops/issues/1075)
+
+
+### Bug Fixes
+
+* **ashby:** include secondaryLocations so EU-eligible roles surface ([a84d3f5](https://github.com/santifer/career-ops/commit/a84d3f51e436e8b36305c38d2ed5dd8438aa5f90)), closes [#1073](https://github.com/santifer/career-ops/issues/1073)
+* **dashboard:** report last-contact in calendar days, not hours-since-midnight ([#1057](https://github.com/santifer/career-ops/issues/1057)) ([4e05cfd](https://github.com/santifer/career-ops/commit/4e05cfda98b5dccfd2c664c12335ee20812b451b))
+* **followup:** resolve report path relative to tracker directory ([752f3b9](https://github.com/santifer/career-ops/commit/752f3b9d598686e56227d8c48063213fdd302a85)), closes [#1070](https://github.com/santifer/career-ops/issues/1070)
+* **latex:** language-agnostic section validation + CJK guard ([#1054](https://github.com/santifer/career-ops/issues/1054)) ([b147504](https://github.com/santifer/career-ops/commit/b147504ade6f1f6fb0445dbe09dfcf380ab01260))
+* **merge-tracker:** require company match for number-based dedup ([2bb514f](https://github.com/santifer/career-ops/commit/2bb514f31b38c7a520545da0c4d3567f7103f608)), closes [#912](https://github.com/santifer/career-ops/issues/912)
+* **pdf:** use ATS-safe system fonts for clean CV text extraction ([17033e8](https://github.com/santifer/career-ops/commit/17033e8213a519aa082e790b3cc4702f5bd7266b)), closes [#1074](https://github.com/santifer/career-ops/issues/1074)
+* **security:** harden local-parser against command/arg injection and scan-ats against SSRF ([721f1a8](https://github.com/santifer/career-ops/commit/721f1a863a83d188242a474df3e54c2b673e5b99))
+
 ## [1.11.0](https://github.com/santifer/career-ops/compare/career-ops-v1.10.0...career-ops-v1.11.0) (2026-06-15)
 
 
